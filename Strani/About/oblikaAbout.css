@@ -1,3 +1,33 @@
+.mojaSlika {
+  border-radius: 100%;
+  height: 96px;
+  width: 96px;
+  margin: 5px;
+}
+
+.aboutParaException {
+  /* border-width: 2px;
+  border-color: black;
+  border-style: solid; */
+  margin-top: 7px;
+  font-size: 1.2em;
+  text-align: center;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-family: Verdana, Times, serif;
+  color: darkblue;
+}
+
+.flex-container {
+  display: flex;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding-top: 5px;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
 h1 {
   font-family: Georgia, Times, serif;
   font-size: 2.5em;
