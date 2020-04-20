@@ -1,4 +1,30 @@
+h1 {
+  font-family: Georgia, Times, serif;
+  font-size: 2.5em;
+  text-align: left;
+  /*border-width: 2px;
+  border-color: black;
+  border-style: solid; */
+  margin-left: 15%;
+  margin-right: 15%;
+  padding-top: 5px;
 
+}
+
+.aboutPara {
+  /* border-width: 2px;
+  border-color: black;
+  border-style: solid; */
+  margin-top: 2px;
+  margin-left: 15%;
+  margin-right: 15%;
+  font-size: 1.2em;
+  text-align: center;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-family: Verdana, Times, serif;
+  color: darkblue;
+}
 
 * {
   margin: 0;
