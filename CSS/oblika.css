@@ -65,11 +65,3 @@ nav ul li a:hover {
   background-color: RGB(218, 248, 255);
   border-bottom-color: RGB(104, 215, 255 );
 }
-
-.kocka {
-  width:400px;
-  height:300px;
-  background-color:lightblue;
-  border:1px solid blue;
-  margin:0 auto;
-}
